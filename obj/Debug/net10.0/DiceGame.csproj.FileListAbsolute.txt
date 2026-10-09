@@ -12,3 +12,4 @@ C:\Users\muzam\Documents\DiceGame\obj\Debug\net10.0\refint\DiceGame.dll
 C:\Users\muzam\Documents\DiceGame\obj\Debug\net10.0\DiceGame.pdb
 C:\Users\muzam\Documents\DiceGame\obj\Debug\net10.0\DiceGame.genruntimeconfig.cache
 C:\Users\muzam\Documents\DiceGame\obj\Debug\net10.0\ref\DiceGame.dll
+C:\Users\muzam\Documents\DiceGame\obj\Debug\net10.0\DiceGame.sourcelink.json
